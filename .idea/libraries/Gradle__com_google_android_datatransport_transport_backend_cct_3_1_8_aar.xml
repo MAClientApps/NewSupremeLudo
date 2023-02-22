@@ -2,7 +2,6 @@
   <library name="Gradle: com.google.android.datatransport:transport-backend-cct:3.1.8@aar">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7318d58687d99b2900864dca887c8072/transformed/jetified-transport-backend-cct-3.1.8/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7318d58687d99b2900864dca887c8072/transformed/jetified-transport-backend-cct-3.1.8/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7318d58687d99b2900864dca887c8072/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>

@@ -17,7 +17,7 @@ public class SupremeLudoKApplication extends Application {
     public void onCreate() {
         super.onCreate();
 
-        config = new MobConfig(this, "8y6aqpdkd2io");
+        config = new MobConfig(this, "8y6aqpdkd2io","igkf2r");
         Mob.onCreate(config);
         registerActivityLifecycleCallbacks(new MobLifecycleCallbacks());
 
